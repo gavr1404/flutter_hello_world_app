@@ -5,7 +5,7 @@ void main() {
     const MaterialApp(
       home: Scaffold(
         body: Center(
-          child: Text("123Hello World"),
+          child: Text("Hello World"),
         ),
       ),
     ),
